@@ -1,5 +1,5 @@
 # lemon
 
-The lemon parser generator as used by SQLite built using CMake.
+lemon parser generator build tool for outputting c source (Part of SQLite)
 
-Buinding under msys2 requires `cmake -G "MSYS Makefiles"`
+Building under msys2 requires `cmake -G "MSYS Makefiles"`
